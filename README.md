@@ -4,10 +4,10 @@ Original work by Cliff L. Biffle
 
 Changes made by me: 
 - Added example
-- Added code do handle green and orange characters
+- Added code do handle green and orange characters when pressed green button and orange button.
 - Included Arduino header file on library
 
-====================
+More information on Cliff's original post: http://cliffle.com/project/chatpad/
 
 Copyright (C) 2011 Cliff L. Biffle, all rights reserved.
 Redistribution and use in source and binary forms, with or without
