@@ -23,7 +23,6 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 #include "Chatpad.h"
-#include "wiring.h"
 #include "HardwareSerial.h"
 #include <Arduino.h>
 
